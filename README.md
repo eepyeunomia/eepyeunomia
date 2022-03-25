@@ -24,3 +24,6 @@ joalricha869@gmail.com
 
 ### Do u have discord?
 Yes! Add me on discord! joalricha#8877
+
+
+# #BanUruguay #StealFromUruguay
