@@ -38,4 +38,4 @@ Yes! Add me on discord! joalricha#8877
                       |_|                                    
 ```
 
-## Also known as Diego. Report him NOW
+## Report this person
