@@ -6,6 +6,7 @@
 - C
 - React (_learning_)
 - JavaScript (_learning_)
+- TypeScript (_in progress learning_)
 - Java (_learning_)
 
 ### Some stuffs
@@ -25,3 +26,6 @@ joalricha869@gmail.com
 
 ### Do u have discord?
 Yes! Add me on discord! joalricha#8877
+
+### What is your role in BigBoyTaco Studios?
+Website Dev, Game Designer, Python Dev
