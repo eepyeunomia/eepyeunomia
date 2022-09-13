@@ -1,10 +1,13 @@
 # Hi people! My name is Jose.
+
+An idiot freshman developer. 
+
 ### Stuffs I Know
 - HTML
 - CSS
 - Python
 - C
-- React (_learning_)
+- React (_learning_) 
 - JavaScript (_learning_)
 - TypeScript (_in progress learning_)
 - Java (_learning_)
