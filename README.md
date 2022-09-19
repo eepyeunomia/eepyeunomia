@@ -1,6 +1,6 @@
 # Hi people! My name is Jose.
 
-An idiot freshman developer. 
+An idiot freshman developer who used to do cring shit on scratch. 
 
 ### Stuffs I Know
 - HTML
