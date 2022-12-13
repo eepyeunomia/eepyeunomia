@@ -1,34 +1,26 @@
-# Hi people! My name is Jose.
+# Just another human being in this planet 💀💀💀💀
 
-An idiot freshman developer who used to do cring shit on scratch. 
+I'm Jose, just another dumbass developer. Idiot freshman who needs to go touch some grass 💀. Used to do stupid shet in scratch
 
-### Stuffs I Know
-- HTML
-- CSS
-- Python
-- C
-- React (_learning_) 
-- JavaScript (_learning_)
-- TypeScript (_in progress learning_)
-- Java (_learning_)
+### NOTHING TO SEE HERE MOVE ALONGGG
 
-### Some stuffs
+[Really Useless YouTube Channel](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
 
-[My Youtube!](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+[My Twitch (Dead)](https://twitch.tv/joalricha)
 
-[My Twitch!](https://twitch.tv/joalricha)
+# FAQ which no one asked for
 
-[The Minecraft Crew Discord](https://discord.gg/6sbBJGYQWJ)
+### whats ur email
+joalricha869@gmail.com (pls dont spam shit)
 
-[The Home of Gamers Discord](https://discord.gg/RVMcCqAjvR)
+### discoerd 
+yea, just dont spam | joalricha#8877
 
-# FAQ
+### did bbts die
+yes its dead, lumen games is also dead @AnotherLumenGames
 
-### What's your e-mail?
-joalricha869@gmail.com
+### wheres idkdwij
+hes in ohio rn 💀 (lol jk)
 
-### Do u have discord?
-Yes! Add me on discord! joalricha#8877
-
-### What is your role in BigBoyTaco Studios?
-Website Dev, Game Designer, Python Dev
+### r u ded
+mentally yes 💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
