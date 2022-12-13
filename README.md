@@ -24,3 +24,18 @@ hes in ohio rn 💀 (lol jk)
 
 ### r u ded
 mentally yes 💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
+
+### phone number
+no
+
+### wheres pyprompt 1.6
+uhhhhhhhhhhhhhh idk
+
+### did theopensour return
+he did (idk how tho)
+
+### codeberg
+follow theclosedbitter ther
+
+### uhhh i forgor
+💀💀💀💀 LOL
