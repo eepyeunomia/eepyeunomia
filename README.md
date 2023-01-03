@@ -1,12 +1,16 @@
-# Just another human being in this planet 💀💀💀💀
+# You have stumbled upon a developer who is currently non-existent. You should follow anyways lul
 
-I'm Jose, just another dumbass developer. Idiot freshman who needs to go touch some grass 💀. Used to do stupid shet in scratch
+I'm Jose, just another lazy developer on github. 
 
 ### NOTHING TO SEE HERE MOVE ALONGGG
 
 [Really Useless YouTube Channel](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
 
 [My Twitch (Dead)](https://twitch.tv/joalricha)
+
+[Definitely Not A Rickroll](https://onesquareminesweeper.com)
+
+[My Twitter](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 # FAQ which no one asked for
 
@@ -39,3 +43,9 @@ follow theclosedbitter ther
 
 ### uhhh i forgor
 💀💀💀💀 LOL
+
+### why r u inactive
+cuz i died lol 
+
+### amogus
+gtfo 
