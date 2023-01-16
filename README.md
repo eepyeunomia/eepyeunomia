@@ -10,7 +10,7 @@ I'm Jose, just another lazy developer on github.
 
 [Definitely Not A Rickroll](https://onesquareminesweeper.com)
 
-[My Twitter](https://www.youtube.com/watch?v=xvFZjo5PgG0](https://www.youtube.com/watch?v=xMHJGd3wwZk)
+[My Twitter](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 # FAQ which no one asked for
 
