@@ -6,7 +6,7 @@
 - 🔭 I am currently in High School (_9th Grade_ what an idiot)
 - 🌱 I'm currently learning **JavaScript**
 - ♟️ I'm a **Certified Idiot Developer**
-2
+
 # What I Know
 <h3 align="left"> </h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -25,8 +25,12 @@
 
 # 
 
-[![Wow What An Idiot LMAO](https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko)](https://github.com/joalricha869/github-readme-stats)
-[![Top Langs](https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko)](https://github.com/joalricha869/github-readme-stats)
+<a href="https://github.com/joalricha869/github-readme-stats">
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/joalricha869/github-readme-stats">
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko" />
+</a>
 
 
 ### Totally Not My Social Media
