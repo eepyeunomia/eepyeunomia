@@ -8,9 +8,6 @@
     <a href="https://github.com/joalricha869/PyPrompt/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/joalricha869/PyPrompt" />
     </a>
-    <a href="https://codecov.io/gh/joalricha869/PyPrompt">
-      <img src="https://codecov.io/gh/joalricha869/PyPrompt/branch/master/graph/badge.svg" />
-    </a>
     <a href="https://github.com/joalricha869/PyPrompt/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/joalricha869/PyPrompt?color=0088ff" />
     </a>
