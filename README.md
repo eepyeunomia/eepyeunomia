@@ -1,6 +1,23 @@
 <h1 align="center">Hi, i'm Jose</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
 
+  <p align="center">
+    <a href="https://github.com/joalricha869/PyPrompt/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/joalricha869/PyPrompt/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/joalricha869/PyPrompt" />
+    </a>
+    <a href="https://codecov.io/gh/joalricha869/PyPrompt">
+      <img src="https://codecov.io/gh/joalricha869/PyPrompt/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/joalricha869/PyPrompt/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/joalricha869/PyPrompt?color=0088ff" />
+    </a>
+    <a href="https://github.com/joalricha869/PyPrompt/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joalricha869/PyPrompt?color=0088ff" />
+    </a>
+
 <p align="center"> <a href="youtube.com/@joalricha" target="blank"><img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" /></a> </p>
 
 - 🔭 I am currently in High School (_9th Grade_ what an idiot)
