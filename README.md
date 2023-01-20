@@ -1,30 +1,50 @@
-# You have stumbled upon a developer who is currently non-existent. You should follow anyways lul
+<h1 align="center">Hi, i'm Jose</h1>
+<h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
 
-I'm Jose, just another lazy developer on github. 
+<p align="center"> <a href="youtube.com/@joalricha" target="blank"><img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" /></a> </p>
 
-### NOTHING TO SEE HERE MOVE ALONGGG
+- 🔭 I am currently in High School (_9th Grade_ what an idiot)
+- 🌱 I'm currently learning **JavaScript**
+- ♟️ I'm a **Certified Idiot Developer**
+2
+# What I Know
+<h3 align="left"> </h3>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-[Really Useless YouTube Channel](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+# 
 
-[My Twitch (Dead)](https://twitch.tv/joalricha)
+[![Wow What An Idiot LMAO](https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko)](https://github.com/joalricha869/github-readme-stats)
+[![Top Langs](https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko)](https://github.com/joalricha869/github-readme-stats)
 
-[Definitely Not A Rickroll](https://onesquareminesweeper.com)
 
-[My Twitter](https://www.youtube.com/watch?v=xMHJGd3wwZk)
+### Totally Not My Social Media
 
-# FAQ which no one asked for
+[joalricha - YouTube](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+
+[joalricha - Twitch](https://twitch.tv/joalricha)
+
+# FAQ
 
 ### Email
-joalricha869@gmail.com (pls dont spam shit)
+joalricha869@gmail.com
 
 ### Discord
-yea, just dont spam | joalricha#8877
+joalricha#8877
 
 ### Did BBTS die
-yes its dead, lumen games is also dead @AnotherLumenGames
+Yes it's dead, Lumen Games is also dead @AnotherLumenGames
 
-### Is idkDwij Alive RN?
-yes 💀 (lol jk)
-
-### cAn YoU uNbLoCk A wEbSiTe FoR mE???/?//
-yes i can lol i unblocked bitlife lmao
+### Is idkDwij Dead Right Now?
+Y  E  S   💀
