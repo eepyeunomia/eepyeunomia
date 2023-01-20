@@ -17,9 +17,9 @@
 
 <p align="center"> <a href="youtube.com/@joalricha" target="blank"><img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" /></a> </p>
 
-- 🔭 I am currently in High School (_9th Grade_ what an idiot)
+- 🔭 I am currently in High School (_9th Grade_)
 - 🌱 I'm currently learning **JavaScript**
-- ♟️ I'm a **Certified Idiot Developer**
+- ♟️ I'm a **Certified HTML and CSS Developer**
 
 # What I Know
 <h3 align="left"> </h3>
@@ -50,8 +50,6 @@
 ### Totally Not My Social Media
 
 [joalricha - YouTube](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
-
-[joalricha - Twitch](https://twitch.tv/joalricha)
 
 # FAQ
 
