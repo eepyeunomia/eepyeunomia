@@ -20,6 +20,7 @@
 - 🔭 I am currently in High School (_9th Grade_)
 - 🌱 I'm currently learning **JavaScript**
 - ♟️ I'm a **Certified HTML and CSS Developer**
+- 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 
 # What I Know
 <h3 align="left"> </h3>
