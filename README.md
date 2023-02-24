@@ -14,6 +14,7 @@
     <a href="https://github.com/joalricha869/PyPrompt/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joalricha869/PyPrompt?color=0088ff" />
     </a>
+  </p>
 
 <p align="center"> <a href="youtube.com/@joalricha" target="blank"><img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" /></a> </p>
 
