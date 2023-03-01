@@ -23,6 +23,17 @@
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 
+# Need proof of the last claim??
+
+English:
+- Of course you know this is true dingus. (_Even though this IS my second language lmao_)
+
+Spanish:
+- Yo hablo español también. Es mi idioma primario, sabías? El inglés es mi idioma secundario.
+
+Portuguese:
+- Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
+
 # What I Know
 <h3 align="left"> </h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
