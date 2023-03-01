@@ -23,16 +23,6 @@
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 
-# Need proof of the last claim??
-
-English:
-- Of course you know this is true dingus. (_Even though this IS my second language lmao_)
-
-Spanish:
-- Yo hablo español también. Es mi idioma primario, sabías? El inglés es mi idioma secundario.
-
-Portuguese:
-- Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
 
 # What I Know
 <h3 align="left"> </h3>
@@ -81,4 +71,13 @@ joalricha#8877
 
 DingusOrg (known as Yeet) is a new organization made by students. For students. If ur bored in school, just go to Yeet (https://dingusorg.github.io/yeet). We currently have 5 members! If you want to join then make sure to fill out the form to join the team!
 
+# Need proof of the languages claim??
 
+English:
+- Of course you know this is true dingus. (_Even though this IS my second language lmao_)
+
+Spanish:
+- Yo hablo español también. Es mi idioma primario, sabías? El inglés es mi idioma secundario.
+
+Portuguese:
+- Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
