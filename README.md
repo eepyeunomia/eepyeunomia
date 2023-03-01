@@ -66,11 +66,8 @@ joalricha869@gmail.com
 ### Discord
 joalricha#8877
 
-### Did BBTS die
-Yes it's dead, Lumen Games is also dead @AnotherLumenGames
+### What is Yeet?
 
-### Is idkDwij Dead Right Now?
-Y  E  S   💀
-
+DingusOrg (known as Yeet) is a new organization made by students. For students. If ur bored in school, just go to Yeet (https://dingusorg.github.io/yeet). We currently have 5 members! If you want to join then make sure to fill out the form to join the team!
 
 
