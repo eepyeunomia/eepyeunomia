@@ -41,6 +41,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.windows.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/tu3gt6ysfxq71.webp" alt="unity" width="40" height="40"/> </a>
+
+
+
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stepanhofmann) 
+
 
 # 
 
@@ -66,6 +74,14 @@ joalricha869@gmail.com
 
 ### Discord
 joalricha#8877
+
+### Favorite song / album?
+
+- [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?autoplay=true)
+- [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?autoplay=true)
+- [X100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?autoplay=true)
+- [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf?autoplay=true)
+- [SATURNO](https://open.spotify.com/album/F6QYD0sLnZNUviYe2iBL2c3&usg=AOvVaw1QzbSDMu5e6Ere0wh_fb9e)
 
 # Need proof of the languages claim??
 
