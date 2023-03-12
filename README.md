@@ -44,12 +44,6 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/tu3gt6ysfxq71.webp" alt="unity" width="40" height="40"/> </a>
 
 
-
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stepanhofmann) 
-
-
 # 
 
 <p>
