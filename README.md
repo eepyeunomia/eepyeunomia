@@ -48,6 +48,9 @@
 <a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
 <img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
 
+# 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/849827353335955478)](https://discord.com/users/849827353335955478)
 
 # What I Know
 <h3 align="left"> </h3>
@@ -94,13 +97,6 @@ joalricha869@gmail.com
 ### Discord
 joalricha#8877
 
-### Favorite song / album?
-
-- [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?autoplay=true)
-- [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?autoplay=true)
-- [X100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?autoplay=true)
-- [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf?autoplay=true)
-- [SATURNO](https://open.spotify.com/album/F6QYD0sLnZNUviYe2iBL2c3&usg=AOvVaw1QzbSDMu5e6Ere0wh_fb9e)
 
 # Need proof of the languages claim??
 
