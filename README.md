@@ -24,6 +24,14 @@
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
 
+## Colleges I Want To Get Into
+
+- MIT
+- University of Cambridge
+- Universidad de San Martin De Porres
+- Yale
+- Stanford
+
 ## You Should Follow These People
 
 <h3 align="left"> </h3>
