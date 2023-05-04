@@ -49,7 +49,6 @@
 <a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
 <img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
 
-# 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/849827353335955478)](https://discord.com/users/849827353335955478)
 
