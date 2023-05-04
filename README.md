@@ -22,6 +22,7 @@
 - 🏫 I am currently in High School (_9th Grade_)
 - 🌱 I'm currently learning **Unity**
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
+- 🖥 I just Passed the CompTIA IT Fundamentals + (ITF+) Exam!!!
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
 
