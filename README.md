@@ -17,7 +17,9 @@
 
   </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" /></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" />
+</p>
 
 - 🏫 I am currently in High School (_9th Grade_)
 - 🌱 I'm currently learning **Unity**
@@ -29,29 +31,32 @@
 ## You Should Follow These People
 
 <h3 align="left"> </h3>
-<a href="https://github.com/idkDwij" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/94942567?v=4" alt="dwij" width="60" height="60"/> </a>
-<a href="https://github.com/BigBoyTaco" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/90655713?v=4" alt="nathan" width="60" height="60"/> </a>
-<a href="https://github.com/theclosedbitter" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/117611091?v=4" alt="diego" width="60" height="60"/> </a>
-<a href="https://github.com/SmallMenace" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/120416956?v=4" alt="billy" width="60" height="60"/> </a>
-<a href="https://github.com/BigBoyTacoStudios" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/97241739?s=96&v=4" alt="bbts" width="60" height="60"/> </a>
-<a href="https://github.com/NXWeb-Corperation" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/103967995?s=200&v=4" alt="nxweb" width="60" height="60"/> </a>
-<a href="https://github.com/TitaniumNetwork" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/109880871?s=200&v=4" alt="unblockerdevs" width="60" height="60"/> </a>
-<a href="https://github.com/lioxryt" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
-<a href="https://github.com/codedamn" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/37881195?s=200&v=4" alt="online ide" width="60" height="60"/> </a>
-<a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
-<img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
+<p align="center">
+  <a href="https://github.com/idkDwij" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/94942567?v=4" alt="dwij" width="60" height="60"/> </a>
+  <a href="https://github.com/BigBoyTaco" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/90655713?v=4" alt="nathan" width="60" height="60"/> </a>
+  <a href="https://github.com/theclosedbitter" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/117611091?v=4" alt="diego" width="60" height="60"/> </a>
+  <a href="https://github.com/SmallMenace" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/120416956?v=4" alt="billy" width="60" height="60"/> </a>
+  <a href="https://github.com/BigBoyTacoStudios" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/97241739?s=96&v=4" alt="bbts" width="60" height="60"/> </a>
+  <a href="https://github.com/NXWeb-Corperation" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/103967995?s=200&v=4" alt="nxweb" width="60" height="60"/> </a>
+  <a href="https://github.com/TitaniumNetwork" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/109880871?s=200&v=4" alt="unblockerdevs" width="60" height="60"/> </a>
+  <a href="https://github.com/lioxryt" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
+  <a href="https://github.com/codedamn" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/37881195?s=200&v=4" alt="online ide" width="60" height="60"/> </a>
+  <a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
+  <img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
+</p>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/849827353335955478)](https://discord.com/users/849827353335955478)
+<p align="center">
+  <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
+</p>
 
 # Coding Languages & Frameworks
 <h3 align="left"> </h3>
