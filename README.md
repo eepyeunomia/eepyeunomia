@@ -99,9 +99,9 @@
 <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png" alt="animate" width="40" height="40"/> </a>
 </h3>
-# 
 
-<p>
+
+<p align="center">
   <a href="https://github.com/joalricha869/github-readme-stats">
     <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko" />
   </a>
