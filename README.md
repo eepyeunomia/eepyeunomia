@@ -113,6 +113,7 @@
   <a href="https://github.com/joalricha869/github-readme-stats">
     <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko" />
   </a>
+  <br>
   <img src="https://dynamic-badges.maxalpha.repl.co/age/04/08/2008" />
 </p>  
   
