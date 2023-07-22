@@ -44,7 +44,7 @@
   <img src="https://avatars.githubusercontent.com/u/97241739?s=96&v=4" alt="bbts" width="60" height="60"/> </a>
   <a href="https://github.com/NXWeb-Corperation" target="_blank" rel="nonreferrer">
   <img src="https://avatars.githubusercontent.com/u/103967995?s=200&v=4" alt="nxweb" width="60" height="60"/> </a>
-  <a href="https://github.com/TitaniumNetwork" target="_blank" rel="nonreferrer">
+  <a href="https://github.com/titaniumnetwork-dev" target="_blank" rel="nonreferrer">
   <img src="https://avatars.githubusercontent.com/u/109880871?s=200&v=4" alt="unblockerdevs" width="60" height="60"/> </a>
   <a href="https://github.com/lioxryt" target="_blank" rel="nonreferrer">
   <img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
