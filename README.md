@@ -17,9 +17,6 @@
 
   </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" />
-</p>
 
 - 🏫 I am currently in High School (_9th Grade_)
 - 🌱 I'm currently learning **Unity**
