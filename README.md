@@ -18,7 +18,7 @@
   </p>
 
 
-- 🏫 I am currently in High School (_9th Grade_)
+- 🏫 I am currently in High School (_10th Grade_)
 - 🌱 I'm currently learning **Unity**
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
 - 🖥 I just Passed the CompTIA IT Fundamentals + (ITF+) Exam!!!
@@ -47,8 +47,7 @@
   <img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
   <a href="https://github.com/codedamn" target="_blank" rel="nonreferrer">
   <img src="https://avatars.githubusercontent.com/u/37881195?s=200&v=4" alt="online ide" width="60" height="60"/> </a>
-  <a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
+
 </p>
 
 <p align="center">
@@ -129,7 +128,7 @@
 joalricha869@gmail.com
 
 ### Discord
-joalricha#8877
+joalricha
 
 
 # Need proof of the languages claim??
