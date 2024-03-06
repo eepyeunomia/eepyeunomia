@@ -21,9 +21,11 @@
 - 🏫 I am currently in High School (_10th Grade_)
 - 🌱 I'm currently learning **Unity**
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
-- 🖥 I just Passed the CompTIA IT Fundamentals + (ITF+) Exam!!!
+- 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberLaunch.
+- 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
+- 🩷 I am proudly bi :D
 
 ## You Should Follow These People
 
@@ -120,7 +122,7 @@
 
 ### Totally Not My Social Media
 
-[joalricha - YouTube](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+[joalricha - YouTube (also its dead BTW)](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
 
 # FAQ
 
@@ -131,7 +133,7 @@ joalricha869@gmail.com
 joalricha
 
 
-# Need proof of the languages claim??
+# Need proof of the languages claim?? (if anyone even cares)
 
 English:
 - Of course you know this is true dingus. (_Even though this IS my second language lmao_)
@@ -141,3 +143,6 @@ Spanish:
 
 Portuguese:
 - Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
+
+
+# whew its been time since i exist here (03/06/2024)
