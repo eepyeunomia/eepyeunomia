@@ -25,7 +25,7 @@
 - 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
-- 🩷 I am proudly bi :D
+- 🩷 I am proudly bi :D 🩷💜💙
 
 ## You Should Follow These People
 
