@@ -1,5 +1,7 @@
 <h1 align="center">Hi, i'm Jose</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
+<br>
+<h4 align="center">Your Local Silly Tech Support Guy!
 
   <p align="center">
     <a href="https://github.com/joalricha869/PyPrompt/actions">
@@ -19,13 +21,14 @@
 
 
 - 🏫 I am currently in High School (_10th Grade_)
-- 🌱 I'm currently learning **Unity**
+- 🌱 I'm currently learning **C++**
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
-- 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberLaunch.
+- 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
 - 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
-- 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
-- 🩷 I am proudly bi :D 🩷💜💙
+- 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
+- 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
+- ✌️ I am a Demiboi 🩶🩶🩵🤍🩵🩶🩶
 
 ## You Should Follow These People
 
