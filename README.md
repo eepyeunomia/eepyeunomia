@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
 <br>
 <h4 align="center">Your Local Silly Tech Support Guy!
-
+<br>
   <p align="center">
     <a href="https://github.com/joalricha869/PyPrompt/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -20,15 +20,15 @@
   </p>
 
 
-- 🏫 I am currently in High School (_10th Grade_)
-- 🌱 I'm currently learning **C++**
-- 👩‍💻 I'm a **Certified HTML and CSS Developer**
-- 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
-- 🫡 I am in my high school's programming team.
-- 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
-- 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
-- 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
-- ✌️ I am a Demiboi 🩶🩶🩵🤍🩵🩶🩶
+ - 🏫 I am currently in High School (_10th Grade_)
+ - 🌱 I'm currently learning **C++**
+ - 👩‍💻 I'm a **Certified HTML and CSS Developer**
+ - 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
+ - 🫡 I am in my high school's programming team.
+ - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
+ - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
+ - 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
+ - ✌️ I am a Demiboi 🩶🩶🩵🤍🩵🩶🩶
 
 ## You Should Follow These People
 
