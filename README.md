@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Jose</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
 <br>
-<h4 align="center">Your Local Silly Tech Support Guy!
+<h4 align="center">Your Local Silly Tech Support Guy!</h4>
 <br>
   <p align="center">
     <a href="https://github.com/joalricha869/PyPrompt/actions">
