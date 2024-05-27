@@ -27,7 +27,7 @@
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
 - 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
-- ✌️ I am a Demiboi 🩶🩶🩵🤍🩵🩶🩶
+- ✌️ I am a Demiboi 🩶🩵🤍🩵🩶
 
 ## You Should Follow These People
 
