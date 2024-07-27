@@ -1,25 +1,25 @@
-<h1 align="center">Hi, i'm Jose</h1>
+<h1 align="center">Hi, i'm Eunomia!</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
-<h4 align="center">Your Local Silly Tech Support Guy!</h4>
+<h4 align="center">Your Local Silly Tech Support Girl!</h4>
 <br>
   <p align="center">
-    <a href="https://github.com/joalricha869/PyPrompt/actions">
+    <a href="https://github.com/femd1ngu5/PyPrompt/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/joalricha869/PyPrompt/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/joalricha869/PyPrompt" />
+    <a href="https://github.com/femd1ngu5/PyPrompt/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/femd1ngu5/PyPrompt" />
     </a>
-    <a href="https://github.com/joalricha869/PyPrompt/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/joalricha869/PyPrompt?color=0088ff" />
+    <a href="https://github.com/femd1ngu5/PyPrompt/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/femd1ngu5/PyPrompt?color=0088ff" />
     </a>
-    <a href="https://github.com/joalricha869/PyPrompt/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joalricha869/PyPrompt?color=0088ff" />
+    <a href="https://github.com/femd1ngu5/PyPrompt/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/femd1ngu5/PyPrompt?color=0088ff" />
     </a>
 
   </p>
 
 
-- 🏫 I am currently in High School (_10th Grade_)
+- 🏫 I am currently in High School (_11th Grade_)
 - 🌱 I'm currently learning **C++**
 - 👩‍💻 I'm a **Certified HTML and CSS Developer**
 - 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
@@ -27,9 +27,9 @@
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
 - 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
-- ✌️ I am a Demiboi 🩶🩵🤍🩵🩶
 
-## You Should Follow These People
+## Y'all Should Follow These People
+If y'all want to of course!
 
 <h3 align="left"> </h3>
 <p align="center">
@@ -107,44 +107,32 @@
 
 
 <p align="center">
-  <a href="https://github.com/joalricha869/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko" />
+  <a href="https://github.com/femd1ngu5/github-readme-stats">
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=femd1ngu5&show_icons=true&theme=merko" />
   </a>
-  <a href="https://github.com/joalricha869/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko" />
+  <a href="https://github.com/femd1ngu5/github-readme-stats">
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=femd1ngu5&layout=compact&show_icons=true&theme=merko" />
   </a>
   <br>
 </p>  
   
 <p align="center">
-  <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/joalricha869/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/joalricha869/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/joalricha869/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
+  <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/femd1ngu5/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/femd1ngu5/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/femd1ngu5/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
 <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </p>
 
 
-### Totally Not My Social Media
+### NOT Shamelessly plugging my dead youtube channel.
 
-[joalricha - YouTube (also its dead BTW)](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+[d1ngu5 - YouTube (the greatest garbage channel that has ever lived)](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
 
 # FAQ
 
 ### Email
-joalricha869@gmail.com
+femd1ngu5@gmail.com (i need to get a new one this one is old)
 
 ### Discord
-joalricha
-
-
-# Need proof of the languages claim?? (if anyone even cares)
-
-English:
-- Of course you know this is true dingus. (_Even though this IS my second language lmao_)
-
-Spanish:
-- Yo hablo español también. Es mi idioma primario, sabías? El inglés es mi idioma secundario.
-
-Portuguese:
-- Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
+.d1ngu5.
 
 
 # whew its been time since i exist here (03/06/2024)
