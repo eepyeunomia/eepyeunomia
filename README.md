@@ -129,7 +129,7 @@ If y'all want to of course!
 # FAQ
 
 ### Email
-femd1ngu5@gmail.com (i need to get a new one this one is old)
+joalricha869@gmail.com (i need to get a new one this one is old)
 
 ### Discord
 .d1ngu5.
