@@ -28,32 +28,6 @@
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
 - 🏳️‍🌈 I am proudly bisexual! :D 🩷💜💙
 
-## Y'all Should Follow These People
-If y'all want to of course!
-
-<h3 align="left"> </h3>
-<p align="center">
-  <a href="https://github.com/idkDwij" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/94942567?v=4" alt="dwij" width="60" height="60"/> </a>
-  <a href="https://github.com/BigBoyTaco" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/90655713?v=4" alt="nathan" width="60" height="60"/> </a>
-  <a href="https://github.com/theclosedbitter" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/117611091?v=4" alt="diego" width="60" height="60"/> </a>
-  <a href="https://github.com/SmallMenace" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/120416956?v=4" alt="billy" width="60" height="60"/> </a>
-  <a href="https://github.com/BigBoyTacoStudios" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/97241739?s=96&v=4" alt="bbts" width="60" height="60"/> </a>
-  <a href="https://github.com/NXWeb-Corperation" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/103967995?s=200&v=4" alt="nxweb" width="60" height="60"/> </a>
-  <a href="https://github.com/titaniumnetwork-dev" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/109880871?s=200&v=4" alt="unblockerdevs" width="60" height="60"/> </a>
-  <a href="https://github.com/lioxryt" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
-  <a href="https://github.com/codedamn" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/37881195?s=200&v=4" alt="online ide" width="60" height="60"/> </a>
-
-</p>
-
 <p align="center">
   <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
 </p>
@@ -120,19 +94,3 @@ If y'all want to of course!
   <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/femd1ngu5/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/femd1ngu5/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/femd1ngu5/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
 <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </p>
-
-
-### NOT Shamelessly plugging my dead youtube channel.
-
-[d1ngu5 - YouTube (the greatest garbage channel that has ever lived)](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
-
-# FAQ
-
-### Email
-joalricha869@gmail.com (i need to get a new one this one is old)
-
-### Discord
-.d1ngu5.
-
-
-# whew its been time since i exist here (03/06/2024)
