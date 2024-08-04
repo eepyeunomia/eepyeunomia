@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7dbe3c60-225e-45e1-84dd-2dade71685a2" width="640" height="360" title="uhh this is meant to be a banner or smth idfk">
-</p>
+<!--><p align="center"><-->
+<!--><img src="https://github.com/user-attachments/assets/7dbe3c60-225e-45e1-84dd-2dade71685a2" width="640" height="360" title="uhh this is meant to be a banner or smth idfk"><-->
+<!--></p><-->
 
 <h1 align="center">Hi, i'm Eunomia!</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
