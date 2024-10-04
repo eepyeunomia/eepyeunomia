@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Eunomia!</h1>
+<h1 align="center">Hai! Eunomia here :3</h1>
 <h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
 <h4 align="center">Your Local Silly Tech Support Girl!</h4>
 <br>
@@ -26,7 +26,7 @@
 - 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
-- 🏳️‍🌈 I am proudly bisexual and trans :D 🏳️‍⚧️
+- 🏳️‍⚧️ I am proudly bisexual and trans :D 
 
 <p align="center">
   <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
@@ -54,3 +54,7 @@
   <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/eepyeunomia/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/eepyeunomia/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/eepyeunomia/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
 <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </p>
+
+
+
+# :3
