@@ -3,17 +3,17 @@
 <h4 align="center">Your Local Silly Tech Support Girl!</h4>
 <br>
   <p align="center">
-    <a href="https://github.com/femd1ngu5/PyPrompt/actions">
+    <a href="https://github.com/eepyeunomia/PyPrompt/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/femd1ngu5/PyPrompt/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/femd1ngu5/PyPrompt" />
+    <a href="https://github.com/eepyeunomia/PyPrompt/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eepyeunomia/PyPrompt" />
     </a>
-    <a href="https://github.com/femd1ngu5/PyPrompt/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/femd1ngu5/PyPrompt?color=0088ff" />
+    <a href="https://github.com/eepyeunomia/PyPrompt/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/eepyeunomia/PyPrompt?color=0088ff" />
     </a>
-    <a href="https://github.com/femd1ngu5/PyPrompt/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/femd1ngu5/PyPrompt?color=0088ff" />
+    <a href="https://github.com/eepyeunomia/PyPrompt/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/eepyeunomia/PyPrompt?color=0088ff" />
     </a>
 
   </p>
@@ -41,16 +41,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/femd1ngu5/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=femd1ngu5&show_icons=true&theme=merko" />
+  <a href="https://github.com/eepyeunomia/github-readme-stats">
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=eepyeunomia&show_icons=true&theme=merko" />
   </a>
-  <a href="https://github.com/femd1ngu5/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=femd1ngu5&layout=compact&show_icons=true&theme=merko" />
+  <a href="https://github.com/eepyeunomia/github-readme-stats">
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=eepyeunomia&layout=compact&show_icons=true&theme=merko" />
   </a>
   <br>
 </p>  
   
 <p align="center">
-  <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/femd1ngu5/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/femd1ngu5/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/femd1ngu5/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
+  <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/eepyeunomia/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/eepyeunomia/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/eepyeunomia/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
 <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </p>
