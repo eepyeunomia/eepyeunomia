@@ -21,7 +21,7 @@
 
 - 🏫 I am currently in High School (_11th Grade_)
 - 🌱 I'm currently learning **C++**
-- 👩‍💻 I'm a **Certified HTML and CSS Developer**
+- 👩‍💻 I'm a Python and C++ Developer.
 - 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
 - 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
