@@ -32,7 +32,7 @@
   <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
 </p>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i72ptvj2bfdl8bmsklxbm31me&redirect=true" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i72ptvj2bfdl8bmsklxbm31me&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i72ptvj2bfdl8bmsklxbm31me&redirect=true" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i72ptvj2bfdl8bmsklxbm31me&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></a>
 </p>
   
 # Coding Languages & Frameworks
