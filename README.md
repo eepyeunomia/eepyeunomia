@@ -26,7 +26,7 @@
 - 🫡 I am in my high school's programming team.
 - 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
-- 🏳️‍⚧️ I am proudly bisexual and trans :D 
+- 🏳️‍⚧️ I am proudly lesbian and trans :D 
 
 <p align="center">
   <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
