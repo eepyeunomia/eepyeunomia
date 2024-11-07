@@ -24,7 +24,7 @@
 - 👩‍💻 I'm a Python and C++ Developer.
 - 🖥 I am CompTIA ITF+ Certified, competed in CyberPatriot and CyberFlorida's CyberLaunch.
 - 🫡 I am in my high school's programming team.
-- 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
+- 🗣 I can speak English and Spanish (_currently learning **Portuguese && German**_)
 - 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis. (or some cybersecurity stuff)
 - 🏳️‍⚧️ I am proudly lesbian and trans :D 
 
